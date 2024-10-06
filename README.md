@@ -1,2 +1,2 @@
 # Fliper Zero Stuff
- bits and bobs
+a collection of bits and bobs of mine for the flipper zero
