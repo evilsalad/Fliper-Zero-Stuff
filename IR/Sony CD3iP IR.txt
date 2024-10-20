@@ -1,0 +1,86 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: CD Play/Pause
+type: parsed
+protocol: SIRC20
+address: 7A 02 00 00
+command: 24 00 00 00
+# 
+name: iPod/iPhone Play/Pause
+type: parsed
+protocol: SIRC20
+address: 7A 02 00 00
+command: 23 00 00 00
+# 
+name: RADIO BAND
+type: parsed
+protocol: SIRC20
+address: 7A 02 00 00
+command: 6F 00 00 00
+# 
+name: <<< PRESET -
+type: parsed
+protocol: SIRC20
+address: 7A 02 00 00
+command: 1A 00 00 00
+# 
+name: OFF []
+type: parsed
+protocol: SIRC20
+address: 7A 02 00 00
+command: 2F 00 00 00
+# 
+name: >>> PRESET +
+type: parsed
+protocol: SIRC20
+address: 7A 02 00 00
+command: 1B 00 00 00
+# 
+name: VOL +
+type: parsed
+protocol: SIRC20
+address: 7A 02 00 00
+command: 12 00 00 00
+# 
+name: MODE
+type: parsed
+protocol: SIRC20
+address: 7A 02 00 00
+command: 11 00 00 00
+# 
+name: AUDIO IN
+type: parsed
+protocol: SIRC20
+address: 7A 02 00 00
+command: 43 00 00 00
+# 
+name: VOL -
+type: parsed
+protocol: SIRC20
+address: 7A 02 00 00
+command: 13 00 00 00
+# 
+name: UP
+type: parsed
+protocol: SIRC20
+address: 7A 02 00 00
+command: 32 00 00 00
+# 
+name: MENU
+type: parsed
+protocol: SIRC20
+address: 7A 02 00 00
+command: 48 00 00 00
+# 
+name: DOWN
+type: parsed
+protocol: SIRC20
+address: 7A 02 00 00
+command: 33 00 00 00
+# 
+name: ENTER
+type: parsed
+protocol: SIRC20
+address: 7A 02 00 00
+command: 30 00 00 00
